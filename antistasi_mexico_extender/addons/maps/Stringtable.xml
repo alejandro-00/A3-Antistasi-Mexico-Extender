@@ -38,29 +38,14 @@
         <Original>Antistasi Mexico Extender</Original>
       </Key>
       <Key ID="STR_A3AE_maps_Altis_mapname">
-        <Original>Antistasi - Liberation of Altis</Original>
+        <Original>Antistasi - Liberation of Altis + mexican factions</Original>
       </Key>
       <Key ID="STR_A3AE_maps_Altis_description">
-        <Original>Antistasi with mexican factions included</Original>
+        <Original>Be the Resistance Leader. Fight against a superior enemy in technology, number, assets and vehicles. Use guerrilla tactics in a totally dynamic world, with around 18 sidemissions, everywhere, anytime, anything. + mexican factions included</Original>
       </Key>
       <Key ID="STR_A3AE_maps_Altis_loadText">
         <Original>Because nothing is more important than fun</Original>
       </Key>
-
-      <!-->
-      <Key ID="STR_A3AE_maps_Other_Altis_mapname_short">
-        <Original>Antistasi Altis Extender New map</Original>
-      </Key>
-      <Key ID="STR_A3AE_maps_Other_Altis_mapname">
-        <Original>Antistasi - Liberation of Altis Extender New map</Original>
-      </Key>
-      <Key ID="STR_A3AE_maps_Other_Altis_description">
-        <Original>Fuck some shit up on a new map</Original>
-      </Key>
-      <Key ID="STR_A3AE_maps_Other_Altis_loadText">
-        <Original>Because nothing is more important than fun. on a new map</Original>
-      </Key>
-      </-->
     </Container>
   </Package>
 </Project>

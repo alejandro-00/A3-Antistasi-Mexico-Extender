@@ -14,6 +14,7 @@ class CfgPatches {
     };
 };
 
+//Crea en los marcadores de mapa la bandera de México. Accesible desde el eden editor y zeus.
 class CfgMarkers{
     class flag_NATO;
     class flag_mex: flag_NATO{
@@ -23,24 +24,9 @@ class CfgMarkers{
     };
 };
 
+//Crea un mástil con la bandera de México. Accesible desde el eden editor y zeus
 class CfgVehicles
 {
-	class All;
-	class AllVehicles;
-	class Air;
-	class Helicopter;
-	class Plane;
-	class Land;
-	class Man;
-	class CAManBase;
-	class LandVehicle;
-	class Tank;
-	class Tank_F;
-	class Car;
-	class Car_F;
-	class Ship;
-	class Ship_F;
-
 	class FlagCarrier;
 	class sedena_Flag_Mex_F: FlagCarrier
 	{

@@ -123,7 +123,7 @@ class d3s_tundra_19_TRD_19 : TRIPLES(ADDON,Nodes,Base)
         class Node1
         {
             offset[] = {-0.05,-1.15,-0.683};
-            seats[] = {1,2};
+            seats[] = {4,5};
         };
         class Node2
         {
@@ -186,4 +186,3 @@ class meanscars_2015_Tahoe_M_Tahoe_p3d: TRIPLES(ADDON,Nodes,Base)
         };
     };
 };
-//offset[] = {0,-1.245,-0.921};
